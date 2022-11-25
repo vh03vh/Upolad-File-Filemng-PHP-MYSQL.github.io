@@ -1,0 +1,29 @@
+
+.login div#content {
+    width: 360px;
+}
+
+.main div#content {
+    width: 880px;
+}
+
+.top-menu .row{
+	min-width: 935px;
+}
+
+.bottom-actions button{
+	float: left;
+}
+
+.bottom-actions button.right{
+	float: right;
+}
+
+#newfolder{
+	width: 50%;
+	height: 27px;
+}
+
+.filter-field .postfix {
+	display:none;
+}
